@@ -1,3 +1,2 @@
 vmlinux
-LDR_TOOL.*
-LDR_TOOL/*
+LKR_TOOL
